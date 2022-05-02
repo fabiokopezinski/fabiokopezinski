@@ -39,6 +39,6 @@
   
   
   
-
+![Snake animation](https://github.com/fabiokopezinski/fabiokopezinski/blob/output/github-contribution-grid-snake-dark.svg)
 
 
