@@ -5,8 +5,8 @@
 
 <div align="center" >
  <a href="https://github.com/fabiokopezinski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiokopezinski&theme=dark&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokopezinski&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiokopezinski&theme=dark&show_icons=true&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokopezinski&layout=compact&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
