@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com back-end Java e Node
 - 🌱 Estudando Typescript,Angular, Flutter e certificação Java
 
-<div>
+<div align="center" >
  <a href="https://github.com/fabiokopezinski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiokopezinski&theme=dark&show_icons=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokopezinski&layout=compact&theme=dark"/>
