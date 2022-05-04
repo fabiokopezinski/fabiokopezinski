@@ -37,7 +37,10 @@
    <a href="mailto:fabiokopezinski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
   </div>
   
+  <br/>
   
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fabiokopezinski.fabiokopezinski)
+
   
 ![Snake animation](https://github.com/fabiokopezinski/fabiokopezinski/blob/output/github-contribution-grid-snake-dark.svg)
 
